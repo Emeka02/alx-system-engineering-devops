@@ -1,4 +1,2 @@
-1-confused_smiley
 #!/bin/bash
-echo \"\(\Ô\o\)\'
-use contrl, shift 6, capital O to get Ô
+cat /etc/passwd
